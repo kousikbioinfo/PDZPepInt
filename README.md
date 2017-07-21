@@ -1,4 +1,5 @@
-======================SH2PepInt===============================================
+PDZPepInt
+===
 
 
 PDZPepInt is a prediction tool for PDZ-peptide interactions, based on SVM. 
@@ -21,7 +22,7 @@ A current version of PDZPepInt you can get from:
 
 http://www.bioinf.uni-freiburg.de/Software/PDZPepInt
  
-or please write an email to Kousik Kundu <kousik@informatik.uni-freiburg.de>
+or please write an email to Kousik Kundu <kk8@sanger.ac.uk>
 
 To install the tool, please extract the src archive somewhere. Then change
 into that directory and type
