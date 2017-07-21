@@ -1,7 +1,6 @@
 PDZPepInt
 ===
 
-
 PDZPepInt is a prediction tool for PDZ-peptide interactions, based on SVM. 
 Current version contains a total 226 human, mouse, fly and worm PDZ domain models. 
 
@@ -18,12 +17,6 @@ Unix and Linux
 Installation:
 ------------
 
-A current version of PDZPepInt you can get from:
-
-http://www.bioinf.uni-freiburg.de/Software/PDZPepInt
- 
-or please write an email to Kousik Kundu <kk8@sanger.ac.uk>
-
 To install the tool, please extract the src archive somewhere. Then change
 into that directory and type
 
@@ -33,13 +26,10 @@ the script compiles the SVM-light and
 creates the master script, namely PDZPepInt.sh. 
 
 
-
-
 Dependency:
 -------------
 
 In order to compile PDZPepInt correctly, you need "PERL" already installed.
-
 
 
 Usage:
@@ -64,6 +54,21 @@ Files:
 -----------------
 sample.fasta: sample file for run the tool
 
+
+
+Contact:
+-----------------
+Kousik Kundu (kk8@sanger.ac.uk)
+
+
+Publication:
+-----------------
+* Kousik Kundu, Martin Mann, Fabrizio Costa, and Rolf Backofen.
+[MoDPepInt: An interactive webserver for prediction of modular domain-peptide interactions
+Bioinformatics, 2014.](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu350)
+
+* Kousik Kundu and Rolf Backofen
+[Cluster based prediction of PDZ-peptide interactions BMC Genomics, 15 Suppl 1 pp. S5, 2014.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-S1-S5)
 
 
 
