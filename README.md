@@ -1,7 +1,7 @@
 PDZPepInt
 ===
 
-PDZPepInt is a cluster based prediction tool to predict binding peptides of PDZ domains in human, mouse, fly and worm. Total 43 built-in models that cover 226 PDZ domains across the species are available. Peptides are represented as 5 C-terminal sequences of binding proteins. Depending on the user requirement Gene Ontology database can be used for getting reliable interactions. Additionally, it will also consider the C-terminal peptides that are intrinsically unstructured for getting high confidence interactions.
+PDZPepInt is a cluster based prediction tool to predict binding peptides of PDZ domains in human, mouse, fly and worm. Total 43 built-in models that cover 226 PDZ domains across the species are available. Peptides are represented as 5 C-terminal sequences of binding proteins. Depending on the user requirement [Gene Ontology](http://www.ebi.ac.uk/QuickGO/) database can be used for getting reliable interactions. Additionally, it will also consider the C-terminal peptides that are intrinsically unstructured for getting high confidence interactions.
 
 PDZPepInt 1.0
 August, 2013 
