@@ -19,9 +19,9 @@ Installation:
 
 To install the tool, please extract the src archive somewhere. Then change
 into that directory and type
-
+```
   bash COMPILE.sh
-
+```
 the script compiles the SVM-light and  
 creates the master script, namely PDZPepInt.sh. 
 
@@ -34,11 +34,11 @@ In order to compile PDZPepInt correctly, you need "PERL" already installed.
 
 Usage:
 --------------
-
+```
 PDZPepInt <protein/peptide fasta file>
 
 e.g. PDZPepInt peptides.fasta
-
+```
 
 Output File:
 --------------
