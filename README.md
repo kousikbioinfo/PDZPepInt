@@ -62,7 +62,7 @@ Contact:
 Kousik Kundu (kk8@sanger.ac.uk)
 
 
-Publication:
+Citation:
 -----------------
 * Kousik Kundu, Martin Mann, Fabrizio Costa, and Rolf Backofen.
 [MoDPepInt: An interactive webserver for prediction of modular domain-peptide interactions
