@@ -5,6 +5,7 @@ PDZPepInt is a cluster based prediction tool to predict binding peptides of PDZ 
 
 PDZPepInt 1.0
 August, 2013 
+
 Authors: Kousik Kundu and Rolf Backofen
 
 Platform:
