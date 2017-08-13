@@ -31,7 +31,3 @@ echo " compilation and installation finished!";
 echo
 echo " You can run now ./PDZpepint.sh sample.fasta";
 echo
-
-
-
-
